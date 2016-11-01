@@ -456,6 +456,7 @@ declare namespace ReactBootstrap {
         expanded?: boolean;
         justified?: boolean;
         navbar?: boolean;
+        pullLeft?: boolean;
         pullRight?: boolean;
         right?: boolean;
         stacked?: boolean;
